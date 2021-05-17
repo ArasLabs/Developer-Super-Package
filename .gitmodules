@@ -13,6 +13,3 @@
 [submodule "tree-grid-view-sample"]
 	path = tree-grid-view-sample
 	url = https://github.com/ArasLabs/tree-grid-view-sample.git
-[submodule "custom-search-mode"]
-	path = custom-search-mode
-	url = https://github.com/ArasLabs/custom-search-mode.git
