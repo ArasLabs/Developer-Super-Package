@@ -7,9 +7,9 @@
 [submodule "find-parent-package"]
 	path = find-parent-package
 	url = https://github.com/ArasLabs/find-parent-package.git
-[submodule "method-editor-theme-preference"]
-	path = method-editor-theme-preference
-	url = https://github.com/ArasLabs/method-editor-theme-preference.git
 [submodule "tree-grid-view-sample"]
 	path = tree-grid-view-sample
 	url = https://github.com/ArasLabs/tree-grid-view-sample.git
+[submodule "cui-add-to-package"]
+	path = cui-add-to-package
+	url = https://github.com/ArasLabs/cui-add-to-package.git

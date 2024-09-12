@@ -6,7 +6,7 @@ The following Aras community projects are contained in this super package
 1. [Custom Search Mode](https://github.com/ArasLabs/custom-search-mode/)
 2. [Find Active Debuggers](https://github.com/ArasLabs/find-active-debuggers/)
 3. [Find Parent Package](https://github.com/ArasLabs/find-parent-package/)
-4. [Method Editor Theme Preference](https://github.com/ArasLabs/method-editor-theme-preference/)
+4. [CUI Add to Package](https://github.com/ArasLabs/cui-add-to-package)
 5. [Run Client Method](https://github.com/ArasLabs/run-client-method/)
 6. [Tree Grid View Sample](https://github.com/ArasLabs/tree-grid-view-sample/)
 
@@ -18,12 +18,13 @@ Aras 11.0 SP12
 #### History:
 Release | Notes
 --------|--------
-[v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | Initial Release
-
+[v1](https://github.com/ArasLabs/Developer-Super-Package/releases/tag/v1) | Initial Release
+[v2](https://github.com/ArasLabs/Developer-Super-Package/releases/tag/v2) | Validated in 31, Replaced Method Editor themes with CUI Add to Package
 #### Versions Tested:
 Release | Aras
 --------|-------
-[v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | 11.0 SP12
+[v1](https://github.com/ArasLabs/Developer-Super-Package/releases/tag/v1) | 11.0 SP12
+[v2](https://github.com/ArasLabs/Developer-Super-Package/releases/tag/v2) | Release 31
 
 #### Browsers Tested:
 The tested browsers for each of the submodules can be found in the READMEs of the individual projects
@@ -35,7 +36,7 @@ The tested browsers for each of the submodules can be found in the READMEs of th
 
 ### Pre-requisites
 
-1. Aras Innovator installed (version 11.0 SP12 preferred)
+1. Aras Innovator installed (version 14.0+ preferred)
 2. Aras Update installed (version 1.3+)
 3. Developer Super Package 
 
